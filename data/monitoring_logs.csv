@@ -1,0 +1,2 @@
+timestamp,customer_age,Income,children_home,Recency,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,prediction,actual_spending,error,absolute_error,latency_ms,feedback_score,feedback_text
+2026-06-06T13:19:44.075839,40,50000,1,30,2,4,2,5,6,1000.0,850.0,-150.0,150.0,12.5,4,Test log

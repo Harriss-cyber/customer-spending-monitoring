@@ -1,0 +1,301 @@
+data_period,customer_age,Education,Marital_Status,Income,children_home,Recency,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,total_spending,Dt_Customer
+training,32,PhD,Married,160803.0,0,21,15,0,28,1,0,1717,2012-08-04
+training,47,PhD,Married,36947.0,2,49,4,3,0,4,9,146,2012-08-07
+training,51,PhD,Together,33629.0,2,49,5,3,1,4,9,152,2012-08-08
+training,38,Basic,Divorced,9548.0,1,31,2,1,0,3,8,29,2012-08-08
+training,32,Graduation,Married,37040.0,0,41,1,4,2,5,8,316,2012-08-08
+training,40,Graduation,Married,67445.0,1,63,5,9,6,12,6,1174,2012-08-12
+training,40,Graduation,Married,67445.0,1,63,5,9,6,12,6,1174,2012-08-12
+training,43,PhD,Together,49269.0,1,92,3,7,3,12,7,890,2012-08-15
+training,45,PhD,Together,53374.0,1,34,6,4,2,9,9,1064,2012-08-16
+training,54,Master,Married,30522.0,1,6,5,1,2,9,2,326,2012-08-17
+training,62,Graduation,Single,53700.0,1,94,4,5,5,8,5,694,2012-08-17
+training,43,2n Cycle,Divorced,49118.0,0,90,2,9,7,10,7,1229,2012-08-18
+training,40,Graduation,Single,32233.0,1,26,2,6,2,2,9,296,2012-08-19
+training,59,PhD,Single,49667.0,0,35,2,5,10,5,8,1396,2012-08-20
+training,53,Graduation,Single,82014.0,0,48,1,3,6,12,6,1511,2012-08-20
+training,41,2n Cycle,Married,35688.0,3,94,7,4,1,4,8,211,2012-08-22
+training,28,Basic,Single,8940.0,1,25,3,3,1,3,8,101,2012-08-22
+training,47,Graduation,Married,77870.0,1,93,3,5,5,5,8,1815,2012-08-22
+training,29,Graduation,Single,29760.0,1,87,4,3,1,4,8,165,2012-08-29
+training,47,Graduation,Together,75702.0,2,77,5,4,6,11,8,1148,2012-08-29
+training,40,Graduation,Married,42557.0,1,98,4,6,1,4,8,270,2012-08-29
+training,68,Graduation,Together,37760.0,0,20,2,4,1,6,7,317,2012-08-31
+training,50,Graduation,Divorced,51983.0,1,95,3,9,2,10,7,793,2012-08-31
+training,26,PhD,Married,67546.0,0,90,1,4,10,5,3,2126,2012-08-31
+training,49,PhD,Together,65220.0,0,3,4,8,4,7,6,1282,2012-09-03
+training,57,Graduation,Single,58138.0,0,58,3,8,10,4,7,1617,2012-09-04
+training,34,Basic,Married,25965.0,0,29,1,2,0,3,8,74,2012-09-07
+training,52,Graduation,Divorced,63887.0,1,38,5,9,6,12,6,1245,2012-09-08
+training,39,PhD,Married,80427.0,1,56,1,11,8,8,5,1835,2012-09-12
+training,58,Graduation,Together,54450.0,2,0,12,9,2,8,8,684,2012-09-14
+training,50,PhD,Divorced,78825.0,0,35,1,5,10,13,3,895,2012-09-14
+training,30,2n Cycle,Married,14796.0,1,1,2,1,0,3,9,51,2012-09-17
+training,42,Graduation,Married,69209.0,0,4,2,5,3,6,4,1782,2012-09-17
+training,57,PhD,Married,37633.0,2,49,2,1,0,3,9,38,2012-09-20
+training,47,Graduation,Divorced,70647.0,1,65,2,4,7,13,2,1079,2012-09-21
+training,36,Graduation,Divorced,71847.0,0,95,0,6,7,9,3,1192,2012-09-21
+training,56,PhD,Together,78952.0,1,11,2,2,5,12,6,2092,2012-09-24
+training,51,PhD,Married,53378.0,2,41,10,9,4,6,8,793,2012-09-24
+training,32,2n Cycle,Together,66664.0,0,78,1,5,7,6,3,1289,2012-09-25
+training,64,Master,Divorced,63120.0,1,53,5,8,4,9,7,1477,2012-09-28
+training,57,Graduation,Married,78618.0,0,87,1,4,7,10,2,2153,2012-09-28
+training,65,Master,Married,62845.0,2,3,11,3,4,10,8,1178,2012-10-01
+training,62,PhD,Together,61010.0,1,57,2,8,5,11,5,1021,2012-10-09
+training,27,Graduation,Married,17323.0,0,38,1,1,0,3,8,46,2012-10-10
+training,54,Master,Together,83151.0,0,93,1,5,9,4,3,747,2012-10-10
+training,30,PhD,Single,39684.0,1,41,2,2,1,2,7,81,2012-10-12
+training,19,2n Cycle,Single,80617.0,0,42,1,4,6,8,2,1435,2012-10-12
+training,34,Graduation,Together,44010.0,1,46,6,10,2,6,9,662,2012-10-13
+training,43,Master,Together,80573.0,0,85,1,4,6,13,2,1564,2012-10-14
+training,30,PhD,Married,70643.0,0,66,1,5,8,4,6,1828,2012-10-15
+training,41,PhD,YOLO,48432.0,1,3,5,7,1,6,8,424,2012-10-18
+training,38,Graduation,Married,59809.0,2,36,3,3,3,6,8,877,2012-10-18
+training,43,Graduation,Divorced,25818.0,1,51,1,0,1,2,7,28,2012-10-18
+training,22,Master,Single,92859.0,0,46,1,5,4,12,2,2077,2012-10-19
+training,39,Basic,Married,30801.0,1,23,2,1,0,3,7,45,2012-10-26
+training,25,Graduation,Married,42387.0,1,42,5,8,1,7,8,684,2012-10-29
+training,45,Master,Together,65176.0,1,57,4,9,6,6,6,1531,2012-10-29
+training,62,PhD,Married,77610.0,1,70,2,4,7,4,7,1680,2012-10-29
+training,28,Basic,Married,20425.0,1,5,2,2,0,3,7,57,2012-10-29
+training,62,Master,Married,33444.0,2,24,1,1,0,2,8,18,2012-11-03
+training,54,Graduation,Married,51651.0,1,32,4,6,2,5,8,433,2012-11-07
+training,39,2n Cycle,Single,41658.0,2,30,2,1,1,2,4,72,2012-11-09
+training,51,Graduation,Single,30983.0,0,50,1,4,0,3,8,167,2012-11-09
+training,34,2n Cycle,Together,14515.0,1,71,4,2,2,3,7,96,2012-11-09
+training,44,Graduation,Single,67384.0,1,32,2,7,8,5,5,1490,2012-11-10
+training,33,Graduation,Married,19419.0,1,76,4,4,0,3,9,70,2012-11-10
+training,48,Graduation,Single,63810.0,1,45,4,4,3,12,8,1371,2012-11-11
+training,57,Graduation,Single,64849.0,0,42,1,9,3,6,5,1336,2012-11-13
+training,56,Graduation,Married,65148.0,1,9,2,6,6,7,4,1115,2012-11-16
+training,51,PhD,Single,46757.0,1,71,6,4,4,7,9,1143,2012-11-16
+training,32,2n Cycle,Single,23616.0,1,76,2,3,0,3,8,79,2012-11-17
+training,65,PhD,Widow,54356.0,1,62,3,11,2,8,8,775,2012-11-19
+training,35,PhD,Married,31605.0,1,15,2,2,1,4,7,125,2012-11-22
+training,49,Graduation,Married,73538.0,1,92,3,10,4,9,7,1658,2012-11-25
+training,62,Graduation,Single,72228.0,0,87,1,6,7,8,3,1250,2012-11-27
+training,42,2n Cycle,Married,24884.0,1,32,1,0,0,3,7,19,2012-11-29
+training,39,PhD,Single,52614.0,1,63,2,2,4,8,8,990,2012-12-01
+training,38,Graduation,Divorced,46310.0,1,99,2,6,1,5,8,309,2012-12-03
+training,20,Graduation,Single,95529.0,0,29,1,7,3,7,3,1990,2012-12-03
+training,22,Basic,Single,7500.0,1,63,4,3,2,2,9,119,2012-12-03
+training,52,Graduation,Single,66565.0,1,80,4,4,2,9,8,1065,2012-12-05
+training,46,Graduation,Divorced,75693.0,0,10,1,11,4,6,4,1442,2012-12-06
+training,39,PhD,Married,76618.0,0,64,1,3,2,5,1,1511,2012-12-07
+training,54,Master,Married,89058.0,0,18,1,5,4,4,2,850,2012-12-07
+training,51,Graduation,Together,56253.0,1,83,4,7,2,9,6,597,2012-12-07
+training,62,Graduation,Divorced,51537.0,1,27,3,2,2,11,8,1103,2012-12-09
+training,66,PhD,Married,61467.0,2,69,3,5,2,10,5,594,2012-12-09
+training,56,Graduation,Together,28087.0,2,77,3,2,2,2,7,112,2012-12-11
+training,34,PhD,Married,43974.0,1,19,5,6,4,6,7,551,2012-12-12
+training,66,PhD,Married,83837.0,0,79,1,9,10,5,4,1318,2012-12-16
+training,34,Graduation,Together,44964.0,2,35,1,1,0,3,8,41,2012-12-16
+training,37,Graduation,Single,28769.0,1,76,3,4,1,4,9,191,2012-12-18
+training,38,PhD,Single,60000.0,1,57,5,11,3,5,6,1277,2012-12-22
+training,44,Master,Divorced,78579.0,0,35,1,5,6,4,3,1812,2012-12-22
+training,57,Graduation,Together,21994.0,1,4,1,0,0,3,5,22,2012-12-24
+training,55,Graduation,Married,18690.0,0,77,1,1,1,2,8,60,2012-12-28
+training,55,Graduation,Married,18690.0,0,77,1,1,1,2,8,60,2012-12-28
+training,47,Graduation,Married,51479.0,2,67,7,6,3,6,7,494,2012-12-28
+training,28,Master,Single,21888.0,1,15,4,5,1,2,10,213,2012-12-29
+training,24,Basic,Married,24279.0,0,6,1,4,1,3,8,263,2012-12-29
+training,55,PhD,Divorced,62859.0,1,37,4,9,4,6,6,1307,2012-12-30
+training,58,Master,Together,14661.0,0,88,1,1,0,3,6,26,2013-01-01
+training,49,Graduation,Together,56046.0,0,9,2,10,1,8,8,692,2013-01-02
+training,52,2n Cycle,Divorced,81975.0,1,2,1,6,3,4,7,1588,2013-01-05
+training,52,Graduation,Married,56181.0,1,6,1,4,2,7,4,393,2013-01-08
+training,35,Basic,Together,23724.0,1,65,2,2,0,3,8,75,2013-01-08
+training,43,Master,Married,35178.0,1,10,1,1,1,2,7,59,2013-01-10
+training,28,Graduation,Married,71952.0,1,93,2,8,4,8,4,1443,2013-01-10
+training,61,Graduation,Single,40464.0,1,78,6,8,2,8,8,630,2013-01-11
+training,53,Graduation,Together,64260.0,0,1,1,4,5,4,3,1574,2013-01-11
+training,36,Graduation,Together,42554.0,2,93,2,2,0,3,4,41,2013-01-12
+training,42,Graduation,Together,26290.0,2,49,4,2,0,4,6,77,2013-01-12
+training,28,Master,Together,42386.0,1,43,1,3,0,3,8,100,2013-01-13
+training,41,PhD,Married,32644.0,1,38,4,7,1,6,8,413,2013-01-16
+training,48,Basic,Together,22634.0,0,47,1,2,1,2,8,96,2013-01-16
+training,58,Graduation,Single,60714.0,0,56,2,7,4,10,5,957,2013-01-17
+training,38,Graduation,Married,13624.0,1,93,2,2,0,3,6,36,2013-01-20
+training,51,Master,Single,64191.0,1,30,3,5,3,13,3,825,2013-01-22
+training,51,PhD,Widow,52278.0,1,24,6,10,5,10,8,1198,2013-01-25
+training,42,PhD,Married,70116.0,0,73,1,2,8,12,1,1536,2013-01-26
+training,29,Graduation,Married,31158.0,1,62,2,2,0,3,8,72,2013-01-27
+training,71,PhD,Divorced,48948.0,0,53,2,7,10,5,6,902,2013-02-01
+training,46,Graduation,Divorced,36997.0,2,72,5,2,1,4,5,94,2013-02-01
+training,45,Graduation,Married,52413.0,2,56,4,6,4,12,6,910,2013-02-02
+training,56,Graduation,Married,81320.0,0,61,1,4,3,10,2,928,2013-02-06
+training,53,PhD,Divorced,64325.0,1,41,5,10,3,5,7,1307,2013-02-07
+training,36,2n Cycle,Together,63855.0,0,28,1,7,3,13,4,1006,2013-02-09
+training,60,Graduation,Together,39898.0,1,20,2,3,0,4,7,134,2013-02-12
+training,65,PhD,Widow,51569.0,1,39,4,7,1,7,8,467,2013-02-12
+training,39,Graduation,Single,53201.0,2,49,8,6,3,5,7,415,2013-02-12
+training,61,Graduation,Married,50725.0,1,45,4,8,1,8,8,586,2013-02-13
+training,28,PhD,Single,29999.0,1,22,4,3,1,4,8,160,2013-02-13
+training,39,2n Cycle,Widow,47682.0,1,80,4,4,3,8,5,521,2013-02-15
+training,49,PhD,Married,71322.0,1,57,2,8,5,13,4,1305,2013-02-16
+training,49,2n Cycle,Together,71488.0,0,87,2,3,4,7,1,559,2013-02-18
+training,29,PhD,Married,18169.0,1,40,1,1,0,2,8,21,2013-02-19
+training,63,PhD,Together,69702.0,1,8,2,7,7,10,4,1039,2013-02-19
+training,53,Graduation,Single,30081.0,1,27,1,1,0,3,7,42,2013-02-21
+training,43,Graduation,Divorced,40851.0,2,63,1,1,1,2,7,59,2013-02-21
+training,33,Graduation,Single,91065.0,0,33,1,7,9,9,3,1474,2013-02-22
+training,65,Graduation,Widow,72643.0,0,60,1,3,10,7,2,1429,2013-02-27
+training,45,PhD,Married,56242.0,1,72,5,8,4,11,6,971,2013-03-03
+training,65,PhD,Married,80360.0,0,56,2,4,4,5,2,2231,2013-03-03
+training,38,Master,Single,70379.0,1,84,3,6,3,13,4,860,2013-03-03
+training,42,Graduation,Single,31907.0,0,75,1,6,1,6,7,449,2013-03-04
+training,36,Graduation,Single,30168.0,1,51,7,6,1,4,9,279,2013-03-07
+training,26,2n Cycle,Divorced,35388.0,1,20,1,1,0,3,7,32,2013-03-07
+training,54,Graduation,Together,30507.0,0,29,1,5,1,4,7,343,2013-03-11
+training,31,Graduation,Single,101970.0,0,69,0,6,8,13,2,1135,2013-03-12
+training,35,Master,Married,40662.0,1,0,2,2,1,3,4,92,2013-03-15
+training,32,Basic,Single,24367.0,1,58,1,1,0,2,9,24,2013-03-20
+training,58,Graduation,Widow,46984.0,2,71,1,1,0,3,5,41,2013-03-26
+training,33,2n Cycle,Married,56337.0,2,25,5,8,5,4,8,724,2013-03-27
+training,24,Master,Single,91172.0,0,94,0,4,3,7,3,1092,2013-03-27
+training,35,Graduation,Single,60152.0,1,6,1,6,4,12,3,943,2013-03-28
+training,58,Graduation,Married,71391.0,1,50,5,6,5,12,3,1043,2013-03-29
+training,54,PhD,Together,38201.0,1,19,4,5,1,5,8,268,2013-03-29
+training,46,Graduation,Together,40521.0,2,82,1,0,1,2,5,21,2013-04-05
+training,32,Master,Married,43815.0,1,53,1,2,0,3,6,79,2013-04-05
+training,53,Graduation,Single,46524.0,1,70,2,1,1,5,3,177,2013-04-05
+training,65,PhD,Single,26518.0,2,33,3,2,0,3,8,57,2013-04-08
+training,47,PhD,Married,56320.0,1,11,3,5,4,9,4,702,2013-04-08
+training,21,Graduation,Single,72354.0,0,67,1,2,10,6,1,1228,2013-04-17
+training,54,Graduation,Together,13672.0,2,86,2,1,0,3,8,25,2013-04-17
+training,46,Master,Divorced,63841.0,1,64,1,9,3,9,6,908,2013-04-21
+training,55,PhD,Married,75032.0,1,74,2,5,4,9,3,1215,2013-04-28
+training,34,Graduation,Married,80011.0,1,3,2,8,6,5,4,1395,2013-04-29
+training,59,Graduation,Single,57959.0,1,71,5,4,7,11,3,868,2013-05-02
+training,56,Basic,Single,15056.0,2,76,5,2,2,3,5,88,2013-05-03
+training,49,Master,Single,35791.0,3,94,2,1,0,3,8,35,2013-05-06
+training,53,PhD,Single,84865.0,0,1,1,2,4,9,4,1688,2013-05-09
+training,36,PhD,Single,31626.0,1,12,1,2,1,2,7,86,2013-05-10
+training,34,Graduation,Married,15072.0,2,96,4,3,1,3,5,53,2013-05-10
+training,68,PhD,Together,44124.0,1,62,4,6,2,5,8,397,2013-05-11
+training,62,Graduation,Together,83844.0,0,57,1,4,4,11,1,1574,2013-05-12
+training,51,Master,Divorced,48721.0,2,50,6,4,2,5,6,293,2013-05-13
+training,43,Graduation,Together,38590.0,1,65,1,1,0,2,8,22,2013-05-15
+training,56,2n Cycle,Together,53083.0,2,65,6,5,1,5,7,271,2013-05-15
+training,33,Graduation,Married,54386.0,1,8,2,3,2,10,3,470,2013-05-17
+training,60,PhD,Single,74637.0,0,73,1,6,9,9,3,1650,2013-05-18
+training,45,Master,Single,62772.0,1,74,1,5,6,11,2,946,2013-05-19
+training,35,2n Cycle,Married,54210.0,1,18,2,4,1,7,5,367,2013-05-20
+training,31,Graduation,Divorced,82025.0,0,76,1,3,2,6,1,1187,2013-05-28
+training,50,Graduation,Single,18701.0,2,95,4,2,0,4,5,44,2013-06-04
+training,43,Master,Together,157733.0,1,37,0,1,0,1,1,59,2013-06-04
+training,62,Graduation,Single,84574.0,0,72,1,9,11,11,5,1375,2013-06-04
+training,65,Master,Married,48150.0,1,24,3,5,1,4,7,266,2013-06-08
+training,56,Graduation,Together,53977.0,1,21,5,5,5,12,5,907,2013-06-08
+training,54,Master,Married,28520.0,2,55,1,1,1,2,6,43,2013-06-14
+training,61,Master,Together,56129.0,1,65,4,6,2,10,4,660,2013-06-20
+training,61,Master,Together,56129.0,1,65,4,6,2,10,4,660,2013-06-20
+training,31,PhD,Married,50150.0,0,32,2,5,2,7,5,410,2013-06-20
+training,42,PhD,Single,38578.0,2,2,3,3,0,3,8,73,2013-06-22
+training,43,PhD,Married,60585.0,2,17,10,7,4,9,5,736,2013-06-24
+training,48,Graduation,Together,60894.0,1,61,5,10,3,8,7,832,2013-06-28
+training,40,Graduation,Married,34421.0,1,81,1,1,0,2,7,30,2013-07-01
+training,40,Graduation,Married,34421.0,1,81,1,1,0,2,7,30,2013-07-01
+training,25,Graduation,Married,28691.0,1,56,1,1,0,3,8,34,2013-07-04
+training,48,Graduation,Married,44529.0,1,98,6,6,2,11,5,691,2013-07-05
+training,40,PhD,Together,28440.0,1,87,1,2,0,3,8,63,2013-07-07
+training,74,PhD,Single,51141.0,0,96,1,3,1,4,5,157,2013-07-08
+training,42,Master,Married,57136.0,2,48,9,5,2,10,6,642,2013-07-09
+training,40,Graduation,Married,30631.0,1,75,1,3,1,2,7,70,2013-07-12
+training,54,2n Cycle,Widow,46779.0,2,55,1,0,1,2,4,23,2013-07-12
+training,56,Master,Together,42315.0,1,90,3,1,4,4,3,270,2013-07-12
+training,51,Graduation,Divorced,45146.0,2,28,2,1,1,2,4,53,2013-07-15
+training,62,Graduation,Married,67433.0,2,51,4,6,5,13,4,992,2013-07-16
+training,49,PhD,Single,40637.0,2,72,2,1,0,3,7,38,2013-07-17
+training,56,Graduation,Together,46610.0,0,4,1,6,1,6,6,467,2013-07-18
+training,25,Graduation,Single,81217.0,0,77,1,3,7,11,1,1157,2013-07-19
+training,32,2n Cycle,Together,41039.0,0,32,1,8,1,5,8,467,2013-07-25
+training,26,Graduation,Together,87679.0,0,62,1,7,11,10,4,2524,2013-07-27
+training,49,PhD,Divorced,36921.0,2,74,2,2,0,3,7,38,2013-07-28
+training,42,Graduation,Married,40321.0,2,59,2,3,0,3,7,102,2013-07-29
+training,50,PhD,Married,59304.0,1,81,3,7,8,10,5,1048,2013-07-29
+training,58,Master,Married,63915.0,2,2,2,6,3,12,5,789,2013-07-30
+training,28,Graduation,Together,34728.0,1,2,1,1,1,2,6,36,2013-07-30
+training,43,Graduation,Single,22804.0,1,75,1,2,0,2,9,26,2013-07-31
+training,36,2n Cycle,Together,38702.0,1,71,2,3,0,4,6,109,2013-08-01
+training,30,2n Cycle,Married,65370.0,0,1,1,2,3,13,1,461,2013-08-01
+training,48,Graduation,Married,61286.0,1,34,2,7,1,8,5,608,2013-08-02
+training,29,Graduation,Single,22327.0,1,94,1,1,0,3,5,24,2013-08-02
+training,58,Graduation,Together,64090.0,1,8,1,6,9,4,5,797,2013-08-07
+training,38,2n Cycle,Together,25176.0,2,79,1,1,0,2,7,13,2013-08-10
+training,43,Master,Divorced,74290.0,1,70,4,10,8,10,6,1217,2013-08-12
+training,50,PhD,Married,41551.0,2,51,5,5,1,5,8,279,2013-08-14
+training,40,Graduation,Single,42373.0,2,83,5,2,1,5,5,163,2013-08-15
+training,44,Graduation,Divorced,54137.0,1,46,2,4,1,4,6,203,2013-08-16
+training,32,Graduation,Together,40479.0,1,95,1,0,0,3,4,15,2013-08-17
+training,55,Graduation,Together,57957.0,1,24,7,4,6,8,3,637,2013-08-19
+training,55,Graduation,Together,24221.0,0,94,1,1,1,3,4,55,2013-08-20
+training,38,2n Cycle,Together,26907.0,2,10,2,1,0,3,7,22,2013-08-20
+training,37,Graduation,Married,72117.0,1,34,1,9,7,9,5,1073,2013-08-20
+training,49,Graduation,Together,71613.0,0,26,1,8,2,10,4,776,2013-08-21
+training,44,Graduation,Married,13260.0,2,48,4,3,0,3,8,49,2013-08-23
+training,67,Graduation,Together,74485.0,0,58,1,6,7,12,3,1734,2013-08-24
+training,49,Master,Together,45143.0,1,74,3,6,1,5,7,311,2013-08-26
+training,40,PhD,Single,68352.0,1,47,3,8,5,9,6,871,2013-08-28
+training,27,2n Cycle,Married,30390.0,0,5,1,2,0,3,6,80,2013-09-02
+training,43,PhD,Married,60491.0,1,81,4,6,11,7,5,1028,2013-09-06
+training,28,2n Cycle,Married,21955.0,1,81,2,2,1,3,6,55,2013-09-07
+training,42,PhD,Married,59973.0,0,47,1,3,4,7,1,382,2013-09-11
+training,43,Graduation,Single,72258.0,1,28,2,6,9,5,2,1525,2013-09-12
+training,41,Graduation,Divorced,78901.0,1,99,3,9,3,5,4,734,2013-09-17
+training,59,Graduation,Single,72906.0,0,79,1,3,4,9,1,1151,2013-09-17
+training,61,Graduation,Together,80812.0,0,95,1,4,8,5,2,1677,2013-09-17
+training,38,Graduation,Married,56939.0,1,19,2,3,3,10,3,561,2013-09-18
+training,31,Master,Married,36262.0,0,24,1,3,5,3,6,426,2013-09-20
+training,65,Graduation,Widow,70165.0,0,60,1,3,7,11,1,926,2013-09-22
+training,28,Master,Single,19485.0,2,80,1,1,0,2,7,10,2013-09-24
+training,68,Master,Married,66835.0,0,21,1,6,4,13,2,1033,2013-09-28
+training,67,PhD,Married,67472.0,1,93,2,4,2,7,3,414,2013-09-28
+training,69,Graduation,Married,69755.0,0,23,1,3,6,12,1,894,2013-10-02
+training,66,PhD,Together,46681.0,2,52,2,4,6,4,5,425,2013-10-08
+training,41,Graduation,Divorced,89694.0,2,22,3,4,3,4,5,1472,2013-10-09
+training,47,Graduation,Single,25930.0,2,87,1,1,0,2,7,15,2013-10-10
+training,34,Graduation,Married,37406.0,1,18,1,1,0,2,8,17,2013-10-10
+training,57,Graduation,Together,42213.0,1,96,2,5,1,7,7,363,2013-10-12
+training,33,2n Cycle,Together,19414.0,1,32,1,1,0,3,8,32,2013-10-16
+training,33,Graduation,Married,26872.0,0,0,1,1,1,2,6,72,2013-10-16
+training,50,Graduation,Married,48920.0,2,93,3,6,2,5,7,347,2013-10-20
+training,45,PhD,Together,42731.0,1,64,3,4,1,5,5,244,2013-10-21
+training,57,Graduation,Married,55267.0,1,28,4,3,4,6,3,405,2013-10-21
+training,21,Graduation,Single,70515.0,0,12,1,6,6,4,2,1258,2013-10-21
+training,43,Graduation,Divorced,29819.0,1,77,3,3,0,3,6,39,2013-10-24
+training,38,2n Cycle,Together,36301.0,1,53,1,3,0,3,7,78,2013-10-25
+training,22,Basic,Single,15253.0,1,13,2,1,0,3,7,29,2013-10-28
+training,29,Graduation,Single,72903.0,0,74,1,7,5,8,4,2013,2013-10-29
+training,40,Master,Together,43018.0,1,46,1,2,2,2,5,133,2013-11-01
+training,54,PhD,Married,49154.0,2,69,6,4,1,8,6,411,2013-11-03
+training,53,Graduation,Single,45938.0,0,46,2,8,4,6,6,636,2013-11-03
+training,38,Master,Married,49681.0,2,66,6,7,1,7,7,458,2013-11-04
+training,43,PhD,Divorced,86979.0,0,67,1,5,5,5,2,1702,2013-11-07
+training,43,2n Cycle,Married,54690.0,2,76,3,3,1,5,3,198,2013-11-07
+training,49,Master,Single,69882.0,0,94,1,3,7,9,1,1478,2013-11-10
+training,38,Graduation,Married,17649.0,1,70,3,3,0,3,8,45,2013-11-12
+training,45,Graduation,Together,21918.0,1,37,2,2,0,3,6,33,2013-11-14
+training,54,PhD,Single,76045.0,0,78,1,4,5,11,2,1323,2013-11-15
+training,55,2n Cycle,Divorced,59052.0,1,29,3,7,1,7,5,491,2013-11-17
+training,69,PhD,Together,71604.0,0,3,1,8,3,5,4,1196,2013-11-17
+training,39,2n Cycle,Together,19789.0,1,24,3,2,1,3,5,78,2013-11-20
+training,38,PhD,Divorced,55412.0,2,65,1,2,0,3,5,63,2013-11-22
+training,33,Graduation,Single,41967.0,2,66,1,1,0,3,4,54,2013-11-23
+training,61,Graduation,Married,48686.0,3,8,1,1,0,2,8,20,2013-12-04
+training,37,Graduation,Together,39771.0,1,92,1,2,0,3,4,50,2013-12-06
+training,55,PhD,Widow,67786.0,0,0,1,3,6,6,1,1156,2013-12-07
+training,67,Master,Together,78093.0,0,53,1,4,7,5,1,1105,2013-12-11
+training,55,Graduation,Married,42243.0,2,34,2,2,0,3,7,55,2013-12-11
+training,24,Graduation,Married,35765.0,1,86,2,2,0,4,6,75,2013-12-11
+training,63,PhD,Married,78939.0,0,57,1,8,5,6,3,1507,2013-12-12
+training,46,Graduation,Married,19329.0,1,39,3,4,0,3,8,60,2013-12-14
+training,39,Master,Married,37368.0,1,4,1,1,0,2,6,30,2013-12-16
+training,48,Graduation,Married,54198.0,2,13,6,3,1,6,4,235,2013-12-17
+training,59,Master,Single,51124.0,2,79,2,1,0,3,3,43,2013-12-18
+training,61,PhD,Married,55707.0,1,91,2,3,2,9,3,428,2013-12-22
+training,41,Graduation,Single,34853.0,2,75,2,2,0,3,6,34,2013-12-23
+training,39,Graduation,Widow,58330.0,1,87,1,6,4,13,4,1064,2013-12-25
+training,67,2n Cycle,Married,81044.0,0,0,1,5,6,10,1,1208,2013-12-27
+training,36,2n Cycle,Single,36975.0,1,50,1,1,0,3,7,33,2013-12-28
+training,55,PhD,Married,36732.0,2,71,3,1,1,4,2,47,2013-12-29
